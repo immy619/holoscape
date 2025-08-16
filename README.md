@@ -1,6 +1,6 @@
 # Holoscape MVP - Advanced DeFi Analytics Platform
 
-A comprehensive DeFi analytics platform that transforms complex blockchain data into actionable insights. Built for both beginners and experienced DeFi users, combining real-time market data, AI-powered analysis, and sophisticated risk assessment tools.
+A comprehensive DeFi analytics platform that transforms complex blockchain data into actionable insights. Built for both beginners and experienced DeFi users, combining real-time market data, AI-powered analysis and sophisticated risk assessment tools.
 
 ## Introduction
 
@@ -8,7 +8,7 @@ Holoscape MVP democratizes advanced DeFi analytics by making institutional-grade
 
 ## Overview
 
-The platform provides a unified view of cross-chain DeFi opportunities across major blockchain networks including Ethereum, Solana, BNB Chain, Bitcoin, Arbitrum, Base, Polygon, and Bitlayer. Through advanced algorithms and AI integration, users can navigate the decentralized finance ecosystem with confidence.
+The platform provides a unified view of cross-chain DeFi opportunities across major blockchain networks including Ethereum, Solana, BNB Chain, Bitcoin, Arbitrum, Base, Polygon and Bitlayer. Through advanced algorithms and AI integration, users can navigate the decentralized finance ecosystem with confidence.
 
 ## Key Features
 
@@ -19,11 +19,11 @@ The platform provides a unified view of cross-chain DeFi opportunities across ma
 
 ### 📊 **Unified Risk Scoring System (0-100 Scale)**
 - Comprehensive protocol evaluation based on exploit history, oracle dependency, TVL concentration
-- Code audit status, time in market, governance risk, and liquidity risk assessment
+- Code audit status, time in market, governance risk and liquidity risk assessment
 - Detailed risk breakdowns with actionable insights for each protocol
 
 ### 💰 **Fee-Adjusted Yield Calculator**
-- Real net yield calculations accounting for gas fees, bridge costs, and slippage
+- Real net yield calculations accounting for gas fees, bridge costs and slippage
 - Chain-specific fee analysis (Ethereum, Polygon, Solana, etc.)
 - Toggle between gross and net APY views for realistic return expectations
 
@@ -39,7 +39,7 @@ The platform provides a unified view of cross-chain DeFi opportunities across ma
 
 ### 🚨 **Real-Time Anomaly Detection**
 - Suspicious activity monitoring across protocols and chains
-- TVL spikes, yield anomalies, volume surges, and potential exploit detection
+- TVL spikes, yield anomalies, volume surges and potential exploit detection
 - Severity-based alerts with confidence scores and recommended actions
 
 ### 📈 **Multi-Chain Dashboard**
@@ -79,7 +79,7 @@ This project supports multiple AI providers for easy switching and cost optimiza
 
 ### Demo Mode (Default - No API Keys Required)
 - **Demo Provider**: Works immediately with realistic sample responses
-- Perfect for development, testing, and showcasing features
+- Perfect for development, testing and showcasing features
 - No rate limits or API costs
 
 ### Free Options
@@ -131,7 +131,7 @@ Simply change the `AI_PROVIDER` environment variable and restart your applicatio
 
 ## Disclaimer
 
-⚠️ **Important**: This platform is for educational and informational purposes only. All data is statistics-based on various market data points, historical performance metrics, and algorithmic risk assessments. This is not financial advice.
+⚠️ **Important**: This platform is for educational and informational purposes only. All data is statistics-based on various market data points, historical performance metrics and algorithmic risk assessments. This is not financial advice.
 
 ## Contributing
 
