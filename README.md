@@ -1,10 +1,10 @@
 # Holoscape MVP - Advanced DeFi Analytics Platform
 
-A comprehensive DeFi analytics platform that transforms complex blockchain data into actionable investment insights. Built for both beginners and experienced DeFi users, combining real-time market data, AI-powered analysis, and sophisticated risk assessment tools.
+A comprehensive DeFi analytics platform that transforms complex blockchain data into actionable insights. Built for both beginners and experienced DeFi users, combining real-time market data, AI-powered analysis, and sophisticated risk assessment tools.
 
 ## Introduction
 
-Holoscape MVP democratizes advanced DeFi analytics by making institutional-grade tools accessible to all users, regardless of their technical expertise. The platform aggregates data from multiple blockchain networks and uses AI to convert raw market data into clear, visual insights that enable informed investment decisions while minimizing risk exposure.
+Holoscape MVP democratizes advanced DeFi analytics by making institutional-grade tools accessible to all users, regardless of their technical expertise. The platform aggregates data from multiple blockchain networks and uses AI to convert raw market data into clear, visual insights that enable informed decisions while minimizing risk exposure.
 
 ## Overview
 
@@ -33,7 +33,7 @@ The platform provides a unified view of cross-chain DeFi opportunities across ma
 - Beginner-friendly explanations with educational tooltips
 
 ### 🤖 **AI-Powered Market Intelligence**
-- Natural language strategy queries for personalized investment guidance
+- Natural language strategy queries for personalized guidance
 - Automated morning briefs with market analysis and opportunity highlights
 - Risk narrative generation converting complex data into actionable insights
 
@@ -131,7 +131,7 @@ Simply change the `AI_PROVIDER` environment variable and restart your applicatio
 
 ## Disclaimer
 
-⚠️ **Important**: This platform is for educational and informational purposes only. All data is statistics-based on various market data points, historical performance metrics, and algorithmic risk assessments. This is not financial advice. Past performance does not guarantee future results. Always conduct your own research and consider your risk tolerance before making any investment decisions.
+⚠️ **Important**: This platform is for educational and informational purposes only. All data is statistics-based on various market data points, historical performance metrics, and algorithmic risk assessments. This is not financial advice. 
 
 ## Contributing
 
