@@ -131,7 +131,7 @@ Simply change the `AI_PROVIDER` environment variable and restart your applicatio
 
 ## Disclaimer
 
-⚠️ **Important**: This platform is for educational and informational purposes only. All data is statistics-based on various market data points, historical performance metrics, and algorithmic risk assessments. This is not financial advice. Past performance does not guarantee future results. Always conduct your own research and consider your risk tolerance before making any investment decisions.
+⚠️ **Important**: This platform is for educational and informational purposes only. All data is statistics-based on various market data points, historical performance metrics, and algorithmic risk assessments. This is not financial advice.
 
 ## Contributing
 
